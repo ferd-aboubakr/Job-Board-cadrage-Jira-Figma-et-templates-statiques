@@ -1,5 +1,5 @@
 # Job Board Project
 
 ## Project Links
-- **Jira Backlog:** [Link](#)
+- **Jira Backlog:** [https://ferdbakr.atlassian.net/jira/software/projects/JOBBOARD/boards/34/backlog](#)
 - **Figma Design:** [Link](#)
